@@ -1,0 +1,35 @@
+body{
+    background-color: #22223B;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+section{
+    background-color: #4A4E69;
+    height: 300px;
+    width: 230px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+h1{
+    color: #F2E9E4;  
+}
+
+h2{
+    color: #F2E9E4;  
+}
+
+li{
+    color: #f8f7f7;
+}

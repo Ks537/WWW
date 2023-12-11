@@ -9,10 +9,18 @@ body{
     flex-wrap: wrap;
 }
 
-footer{
+header{
     display: flex;
     justify-content: center;
+}
 
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+#A1{
+    display: flex;
 }
 
 
@@ -26,6 +34,15 @@ section{
     display: flex;
     flex-flow: column;
     align-items: center;
+}
+
+img{
+    width: 30px;
+    height: 50px;
+}
+
+a{
+    padding-right: 10px;
 }
 
 h1{

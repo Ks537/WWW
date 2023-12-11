@@ -9,6 +9,11 @@ main{
     flex-wrap: wrap;
 }
 
+footer{
+    display: flex;
+    justify-content: center;
+}
+
 
 section{
     background-color: #4A4E69;
